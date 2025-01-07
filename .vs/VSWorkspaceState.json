@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FarmBridge",
+    "\\FarmBridge\\Data",
+    "\\FarmBridge\\Helper",
+    "\\FarmBridge\\Views",
+    "\\FarmBridge\\Views\\Admin",
+    "\\FarmBridge\\Views\\Crop",
+    "\\FarmBridge\\Views\\Farmer",
+    "\\FarmBridge\\Views\\Home",
+    "\\FarmBridge\\Views\\Shared"
+  ],
+  "SelectedNode": "\\FarmBridge\\Views\\Home\\About.cshtml",
+  "PreviewInSolutionExplorer": false
+}
